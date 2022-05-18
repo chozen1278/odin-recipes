@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe Website
+Recipe Website lesson from The Odin Project.com
