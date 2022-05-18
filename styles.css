@@ -1,0 +1,74 @@
+/*styles.css*/
+
+
+body {
+    background-color: black;
+    
+}
+
+
+div {
+    color:black;
+    background-color: red;
+    font-size: 50px;  
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.lasagna {
+    background-color: whitesmoke;
+    border: none;
+    color: black;   
+    padding: 15px 32px; 
+    text-align: center;
+    display: block;
+    font-size: 16px;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+    border: 2px solid red;
+
+}
+
+.lasagna:hover  {
+    background-color: red;
+    color: white;
+}
+
+.brocoli {
+    background-color: whitesmoke;
+    border: none;
+    color: black;   
+    padding: 15px 32px; 
+    text-align: center;
+    display: block;
+    font-size: 16px;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+    border: 2px solid red;
+}
+
+.brocoli:hover  {
+    background-color: red;
+    color: white;
+}
+
+
+.garlicb {
+    background-color: whitesmoke;
+    border: none;
+    color: black;   
+    padding: 15px 32px; 
+    text-align: center;
+    display: block;
+    font-size: 16px;
+    border-radius: 8px;
+    transition-duration: 0.4s;
+    border: 2px solid red;
+
+}
+
+.garlicb:hover  {
+    background-color: red;
+    color: white;
+}
